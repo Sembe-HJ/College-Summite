@@ -1,2 +1,3 @@
 # College-Summite
 A website for promoting about the big Technological event to all passionated students to join so as to attain different knowledges and skills from the industry experts.
+A college summit is an academic event organized by a college or university where students, lecturers, industry experts, and guests come together to share knowledge and ideas. The event usually includes keynote speeches, panel discussions, workshops, presentations, and networking sessions. It helps students learn new skills, explore technology and innovation, discuss career opportunities, and connect with professionals from different fields.
